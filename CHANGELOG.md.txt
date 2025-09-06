@@ -1,0 +1,19 @@
+# Change Log
+All notable changes to this project will be documented in this file.
+
+## rogers_jack_project.mlx
+
+Editor: J. Rogers
+
+## [Unreleased]
+
+#### [0.1.3] - 2025.04.24
+Created 3D model of Earth with topography map, provided by a NASA source, wrapped around sphere.
+#### [0.2.0] - 2025.04.30
+Added satellite orbital parameters with GUI user input functions that allow user to change orbit or self-destruct satellite. Two different outputs produced: 3D model and orbit path. 
+#### [0.2.1] - 2025.05.01
+Combined two output using hold functions for one correct output. 
+### [0.2.2] - 2025.05.07
+Corrected parameters for both hyperbolic and polar orbits. 
+### [0.2.3] - 2025.08.30
+Changed Hyperbolic Orbit to Gravity Assist. 
