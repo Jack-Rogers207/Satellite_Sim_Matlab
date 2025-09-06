@@ -11,7 +11,7 @@ Satellite orbit simulation allows the user to change a satellites orbit between 
 ### Last Edited: 2025.08.30
 
 ## How to Use
-1. Open ‘rogers_jack_project.mlx’ in MATLAB. 
+1. Open ‘satellite_sim.mlx’ in MATLAB. 
 2. Run the script 
 3. Select an orbit type when prompted (press 1, 2, or 3)
 4. Self-destruct the satellite when prompted (press 4)
@@ -35,8 +35,9 @@ Changed Hyperbolic Orbit to Gravity Assist
 ## License
 Copyright 2025 J. Rogers. All rights reserved. 
 
-This file (rogers_jack_project.mlx) is provided for educational and demonstration purposes only. Redistribution, modification, or commercial use is strictly prohibited without prior written permission from the author. 
+This file (satellite_sim.mlx) is provided for educational and demonstration purposes only. Redistribution, modification, or commercial use is strictly prohibited without prior written permission from the author. 
 
 signature of J.Rogers 8 August 2025
 J. Rogers, Owner
+
 
