@@ -2,7 +2,7 @@
 
 
 # Read Me for Satellite orbit simulation 
-Satellite orbit simulation allows the user to change a satellites orbit between a polar, low Earth, and hyperbolic orbit. 
+Satellite orbit simulation allows the user to change a satellites orbit or maneuver between a polar orbit, low Earth orbit, and gravity assist. 
 ## Status
 ### [Released 2025.08.31]
 ## Creator: J. Rogers
@@ -39,5 +39,6 @@ This file (satellite_sim.mlx) is provided for educational and demonstration purp
 
 signature of J.Rogers 8 August 2025
 J. Rogers, Owner
+
 
 
